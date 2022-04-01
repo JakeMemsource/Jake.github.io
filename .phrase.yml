@@ -1,0 +1,18 @@
+phrase:
+  access_token: "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"
+  
+  project_id: "ab434927896287462d544ba99e6dec9e"
+
+  file_format: "html"
+
+  push:
+
+    sources:
+
+    - file: "./<locale_code>_index"
+
+  pull:
+
+    targets:
+
+    - file: "./<locale_code>_index.html"
