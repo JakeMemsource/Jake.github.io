@@ -9,7 +9,7 @@ phrase:
 
     sources:
 
-    - file: "./<locale_code>_index"
+    - file: "./<locale_code>_index.html"
 
   pull:
 
