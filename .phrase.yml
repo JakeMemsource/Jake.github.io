@@ -9,10 +9,10 @@ phrase:
 
     sources:
 
-    - file: "./<locale_code>_index.html"
+    - file: "./<locale_code>_index.md"
 
   pull:
 
     targets:
 
-    - file: "./<locale_code>_index.html"
+    - file: "./<locale_code>_index.md"
