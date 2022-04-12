@@ -10,9 +10,13 @@ phrase:
     sources:
 
     - file: "./index_<locale_code>.html"
+    params: 
+     format_options:
+      document_id: "3837"
 
   pull:
 
     targets:
 
     - file: "./index_<locale_code>.html"
+    
