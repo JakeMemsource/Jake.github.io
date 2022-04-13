@@ -10,11 +10,13 @@ phrase:
     - file: ./index_en-US.html
     params: 
      locale_id: 16bfb780da6b0a435d91995091991148
-
+      format_options:
+       document_id: 3837
 
   pull:
     targets:
     - file: ./index_<locale_code>.html
     params:
      locale_id: 97f356c775da9c080c957c54b9d1aaff
-
+      format_options:
+       document_id: 3837
