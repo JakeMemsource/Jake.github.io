@@ -1,5 +1,5 @@
 phrase:
-  access_token: "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"
+  access_token: "7e1dcdfa40be28eb3a491fe6368104d011119b4d7734b58daf77142d53c6bf80"
   
   project_id: "ab434927896287462d544ba99e6dec9e"
 
@@ -10,8 +10,6 @@ phrase:
     - file: ./index_en-US.html
     params: 
      locale_id: 16bfb780da6b0a435d91995091991148
-      format_options:
-       document_id: 3837
 
   pull:
     targets:
