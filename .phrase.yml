@@ -21,7 +21,7 @@ phrase:
 
     - file: "./index_<locale_code>.html"
     params:
-     locale_id: 
-      format_options: 97f356c775da9c080c957c54b9d1aaff
+     locale_id: 97f356c775da9c080c957c54b9d1aaff
+      format_options: 
        document_id: 3837
     
