@@ -1,9 +1,9 @@
 phrase:
-  access_token: "044a2c5a82db84a1acc00b98ee79e1239fd7bd213bc17b85de037c198c0488d6"
+  access_token: 044a2c5a82db84a1acc00b98ee79e1239fd7bd213bc17b85de037c198c0488d6
   
-  project_id: "ab434927896287462d544ba99e6dec9e"
+  project_id: ab434927896287462d544ba99e6dec9e
 
-  file_format: "html"
+  file_format: html
 
   push:
     sources:
