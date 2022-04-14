@@ -16,5 +16,5 @@ phrase:
     - file: ./index_<locale_code>.html
     params:
      locale_id: 97f356c775da9c080c957c54b9d1aaff
-      format_options:
+      format_option:
        document_id: 3837
