@@ -5,15 +5,15 @@ phrase:
 
   push:
     sources:
-    - file: ./newtest_en-US.html
+    - file: ./index_en-US.html
     params: 
      locale_id: 16bfb780da6b0a435d91995091991148
 
   pull:
     targets:
-    - file: ./newtest_<locale_code>.html
+    - file: ./index_<locale_code>.html
     params:
      locale_id: 97f356c775da9c080c957c54b9d1aaff
      fallback_locale_id: 16bfb780da6b0a435d91995091991148
      format_options:
-       document_id: 
+       document_id: 3837
